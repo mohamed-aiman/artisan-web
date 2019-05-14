@@ -18,7 +18,7 @@ Vue.use(Vuetify);
 const app = new Vue({
     el: '#app',
     router: Routes,
-    render: h => h(App);
+    render: h => h(App)
 })
 
 export default app;
