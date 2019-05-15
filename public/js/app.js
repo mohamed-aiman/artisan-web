@@ -1783,6 +1783,12 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
 
 
 
@@ -1791,6 +1797,106 @@ __webpack_require__.r(__webpack_exports__);
     TopCarousel: _js_components_core_TopCarousel__WEBPACK_IMPORTED_MODULE_0__["default"],
     LargeCircleRow: _js_components_core_LargeCircleRow__WEBPACK_IMPORTED_MODULE_1__["default"],
     RectangleRow: _js_components_core_RectangleRow__WEBPACK_IMPORTED_MODULE_2__["default"]
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Profile.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Profile.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _js_components_profile_ProfilePicture__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/js/components/profile/ProfilePicture */ "./resources/js/components/profile/ProfilePicture.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  components: {
+    ProfilePicture: _js_components_profile_ProfilePicture__WEBPACK_IMPORTED_MODULE_0__["default"]
   }
 });
 
@@ -1836,115 +1942,87 @@ __webpack_require__.r(__webpack_exports__);
       items: [{
         id: 100,
         title: 'Favorite road trips',
-        src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg',
+        src: '/pics/1.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://i.ytimg.com/vi/spfN2TwD75k/maxresdefault.jpg',
+        src: '/pics/3.jpg',
         flex: 1,
         path: '/about',
         'color': 'black'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Favorite road trips',
-        src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg',
+        src: '/pics/1.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://i.ytimg.com/vi/spfN2TwD75k/maxresdefault.jpg',
+        src: '/pics/3.jpg',
         flex: 1,
         path: '/about',
         'color': 'black'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 1,
         path: '/about',
         'color': 'grey'
-      }, {
-        id: 100,
-        title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
-        flex: 1,
-        path: '/about',
-        'color': 'grey'
-      }, {
-        id: 100,
-        title: 'Favorite road trips',
-        src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg',
-        flex: 1,
-        path: '/about',
-        'color': 'grey'
-      }, {
-        id: 100,
-        title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
-        flex: 1,
-        path: '/about',
-        'color': 'grey'
-      }, {
-        id: 100,
-        title: 'Best airlines',
-        src: 'https://i.ytimg.com/vi/spfN2TwD75k/maxresdefault.jpg',
-        flex: 1,
-        path: '/about',
-        'color': 'black'
       }]
     };
   },
@@ -1994,15 +2072,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
@@ -2013,56 +2082,56 @@ __webpack_require__.r(__webpack_exports__);
       items: [{
         id: 100,
         title: 'Favorite road trips',
-        src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg',
+        src: '/pics/1.jpg',
         flex: 3,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Bodu Beru',
-        src: 'https://i.pinimg.com/originals/15/10/53/151053351d395728168a8cf5a983034a.jpg',
+        src: '/pics/2.jpg',
         flex: 3,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://i.ytimg.com/vi/spfN2TwD75k/maxresdefault.jpg',
+        src: '/pics/3.jpg',
         flex: 3,
         path: '/about',
         'color': 'black'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/1.jpg',
         flex: 3,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Favorite road trips',
-        src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg',
+        src: '/pics/1.jpg',
         flex: 3,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Bodu Beru',
-        src: 'https://i.pinimg.com/originals/15/10/53/151053351d395728168a8cf5a983034a.jpg',
+        src: '/pics/2.jpg',
         flex: 3,
         path: '/about',
         'color': 'grey'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://i.ytimg.com/vi/spfN2TwD75k/maxresdefault.jpg',
+        src: '/pics/3.jpg',
         flex: 3,
         path: '/about',
         'color': 'black'
       }, {
         id: 100,
         title: 'Best airlines',
-        src: 'https://i.ytimg.com/vi/spfN2TwD75k/maxresdefault.jpg',
+        src: '/pics/3.jpg',
         flex: 3,
         path: '/about',
         'color': 'black'
@@ -2158,25 +2227,25 @@ __webpack_require__.r(__webpack_exports__);
     return {
       cards: [{
         title: 'Favorite road trips',
-        src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg',
+        src: '/pics/1.jpg',
         flex: 3,
         path: '/about',
         'color': 'grey'
       }, {
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 3,
         path: '/about',
         'color': 'grey'
       }, {
         title: 'Best airlines',
-        src: 'https://i.ytimg.com/vi/spfN2TwD75k/maxresdefault.jpg',
+        src: '/pics/3.jpg',
         flex: 3,
         path: '/about',
         'color': 'black'
       }, {
         title: 'Best airlines',
-        src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+        src: '/pics/2.jpg',
         flex: 3,
         path: '/about',
         'color': 'grey'
@@ -2222,13 +2291,13 @@ __webpack_require__.r(__webpack_exports__);
   data: function data() {
     return {
       items: [{
-        src: 'https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg'
+        src: '/pics/4.jpg'
       }, {
-        src: 'https://cdn.vuetifyjs.com/images/carousel/sky.jpg'
+        src: '/pics/6.jpg'
       }, {
-        src: 'https://cdn.vuetifyjs.com/images/carousel/bird.jpg'
+        src: '/pics/1.jpg'
       }, {
-        src: 'https://cdn.vuetifyjs.com/images/carousel/planet.jpg'
+        src: '/pics/5.jpg'
       }]
     };
   }
@@ -2245,6 +2314,8 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
 //
 //
 //
@@ -20047,28 +20118,9 @@ var render = function() {
       _c("top-carousel"),
       _vm._v(" "),
       _c(
-        "v-parallax",
-        {
-          attrs: {
-            dark: "",
-            src: "https://cdn.vuetifyjs.com/images/parallax/material.jpg",
-            height: "100%"
-          }
-        },
-        [_c("large-circle-row")],
-        1
-      ),
-      _vm._v(" "),
-      _c(
-        "v-parallax",
-        {
-          attrs: {
-            dark: "",
-            src: "https://cdn.vuetifyjs.com/images/parallax/material.jpg",
-            height: "100%"
-          }
-        },
-        [_c("rectangle-row")],
+        "v-layout",
+        { attrs: { row: "", wrap: "" } },
+        [_c("v-flex", [_c("large-circle-row")], 1)],
         1
       )
     ],
@@ -20097,7 +20149,494 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [_vm._v("Profile")])
+  return _c(
+    "v-container",
+    { attrs: { fluid: "", "grid-list-md": "" } },
+    [
+      _c(
+        "v-layout",
+        {
+          attrs: { row: "", wrap: "", "align-center": "", "justify-center": "" }
+        },
+        [
+          _c(
+            "v-flex",
+            { attrs: { xs12: "", sm12: "", md7: "" } },
+            [
+              _c(
+                "v-card",
+                [
+                  _c(
+                    "v-layout",
+                    { attrs: { row: "", wrap: "" } },
+                    [
+                      _c(
+                        "v-flex",
+                        {
+                          staticClass: "pa-3",
+                          attrs: { xs12: "", sm12: "", md3: "" }
+                        },
+                        [_c("profile-picture")],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "v-flex",
+                        { attrs: { xs12: "", sm12: "", md8: "", tag: "div" } },
+                        [
+                          _c(
+                            "v-layout",
+                            {
+                              attrs: {
+                                row: "",
+                                wrap: "",
+                                "align-center": "",
+                                "justify-space-between": ""
+                              }
+                            },
+                            [
+                              _c(
+                                "v-flex",
+                                { attrs: { xs12: "", sm12: "", md12: "" } },
+                                [
+                                  _c(
+                                    "v-layout",
+                                    {
+                                      attrs: {
+                                        row: "",
+                                        wrap: "",
+                                        "align-space-between": "",
+                                        "justify-center": "",
+                                        "fill-height": ""
+                                      }
+                                    },
+                                    [
+                                      _c(
+                                        "v-flex",
+                                        {
+                                          attrs: {
+                                            xs12: "",
+                                            sm12: "",
+                                            md12: ""
+                                          }
+                                        },
+                                        [
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass:
+                                                "title font-weight-light pa-3"
+                                            },
+                                            [
+                                              _vm._v(
+                                                "\n\t\t\t\t\t\t\t\t\t\t\t\tMohamed Aiman\n\t\t\t\t\t\t\t\t\t\t\t    "
+                                              ),
+                                              _c(
+                                                "v-chip",
+                                                {
+                                                  attrs: {
+                                                    color: "teal",
+                                                    "text-color": "white"
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "v-avatar",
+                                                    [
+                                                      _c("v-icon", [
+                                                        _vm._v("check_circle")
+                                                      ])
+                                                    ],
+                                                    1
+                                                  ),
+                                                  _vm._v(
+                                                    "\n\t\t\t\t\t\t\t\t\t\t\t      Verified\n\t\t\t\t\t\t\t\t\t\t\t    "
+                                                  )
+                                                ],
+                                                1
+                                              )
+                                            ],
+                                            1
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "div",
+                                            {
+                                              staticClass:
+                                                "pl-3 pt-2 pb-2 font-weight-thin font-italic"
+                                            },
+                                            [
+                                              _vm._v(
+                                                "Developer, specialized in web application development. Social person who worries a lot about others. Working to make the world a better place."
+                                              )
+                                            ]
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "v-layout",
+                                            {
+                                              attrs: {
+                                                row: "",
+                                                wrap: "",
+                                                "align-center": "",
+                                                "justify-space-around": ""
+                                              }
+                                            },
+                                            [
+                                              _c(
+                                                "v-flex",
+                                                {
+                                                  attrs: {
+                                                    xs12: "",
+                                                    sm12: "",
+                                                    md6: ""
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "v-layout",
+                                                    {
+                                                      attrs: {
+                                                        row: "",
+                                                        wrap: ""
+                                                      }
+                                                    },
+                                                    [
+                                                      _c(
+                                                        "v-flex",
+                                                        {
+                                                          staticClass:
+                                                            "body-2 font-weight-regular pl-3 pt-2",
+                                                          attrs: {
+                                                            md4: "",
+                                                            tag: "div"
+                                                          }
+                                                        },
+                                                        [_vm._v("Location1")]
+                                                      ),
+                                                      _vm._v(" "),
+                                                      _c(
+                                                        "v-flex",
+                                                        {
+                                                          staticClass:
+                                                            "font-weight-light font-italic pl-3 pt-2",
+                                                          attrs: {
+                                                            md8: "",
+                                                            tag: "div"
+                                                          }
+                                                        },
+                                                        [_vm._v("Maldives1")]
+                                                      )
+                                                    ],
+                                                    1
+                                                  )
+                                                ],
+                                                1
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "v-flex",
+                                                {
+                                                  attrs: {
+                                                    xs12: "",
+                                                    sm12: "",
+                                                    md6: ""
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "v-layout",
+                                                    {
+                                                      attrs: {
+                                                        row: "",
+                                                        wrap: ""
+                                                      }
+                                                    },
+                                                    [
+                                                      _c(
+                                                        "v-flex",
+                                                        {
+                                                          staticClass:
+                                                            "body-2 font-weight-regular pl-3 pt-2",
+                                                          attrs: {
+                                                            md4: "",
+                                                            tag: "div"
+                                                          }
+                                                        },
+                                                        [_vm._v("Location2")]
+                                                      ),
+                                                      _vm._v(" "),
+                                                      _c(
+                                                        "v-flex",
+                                                        {
+                                                          staticClass:
+                                                            "font-weight-light font-italic pl-3 pt-2",
+                                                          attrs: {
+                                                            md8: "",
+                                                            tag: "div"
+                                                          }
+                                                        },
+                                                        [_vm._v("Maldives2")]
+                                                      )
+                                                    ],
+                                                    1
+                                                  )
+                                                ],
+                                                1
+                                              )
+                                            ],
+                                            1
+                                          ),
+                                          _vm._v(" "),
+                                          _c(
+                                            "v-layout",
+                                            {
+                                              attrs: {
+                                                row: "",
+                                                wrap: "",
+                                                "align-center": "",
+                                                "justify-space-around": ""
+                                              }
+                                            },
+                                            [
+                                              _c(
+                                                "v-flex",
+                                                {
+                                                  attrs: {
+                                                    xs12: "",
+                                                    sm12: "",
+                                                    md6: ""
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "v-layout",
+                                                    {
+                                                      attrs: {
+                                                        row: "",
+                                                        wrap: ""
+                                                      }
+                                                    },
+                                                    [
+                                                      _c(
+                                                        "v-flex",
+                                                        {
+                                                          staticClass:
+                                                            "body-2 font-weight-regular pl-3 pt-2",
+                                                          attrs: {
+                                                            md4: "",
+                                                            tag: "div"
+                                                          }
+                                                        },
+                                                        [_vm._v("Location3")]
+                                                      ),
+                                                      _vm._v(" "),
+                                                      _c(
+                                                        "v-flex",
+                                                        {
+                                                          staticClass:
+                                                            "font-weight-light font-italic pl-3 pt-2",
+                                                          attrs: {
+                                                            md8: "",
+                                                            tag: "div"
+                                                          }
+                                                        },
+                                                        [_vm._v("Maldives3")]
+                                                      )
+                                                    ],
+                                                    1
+                                                  )
+                                                ],
+                                                1
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "v-flex",
+                                                {
+                                                  attrs: {
+                                                    xs12: "",
+                                                    sm12: "",
+                                                    md6: ""
+                                                  }
+                                                },
+                                                [
+                                                  _c(
+                                                    "v-layout",
+                                                    {
+                                                      attrs: {
+                                                        row: "",
+                                                        wrap: ""
+                                                      }
+                                                    },
+                                                    [
+                                                      _c(
+                                                        "v-flex",
+                                                        {
+                                                          staticClass:
+                                                            "body-2 font-weight-regular pl-3 pt-2",
+                                                          attrs: {
+                                                            md4: "",
+                                                            tag: "div"
+                                                          }
+                                                        },
+                                                        [_vm._v("Location4")]
+                                                      ),
+                                                      _vm._v(" "),
+                                                      _c(
+                                                        "v-flex",
+                                                        {
+                                                          staticClass:
+                                                            "font-weight-light font-italic pl-3 pt-2",
+                                                          attrs: {
+                                                            md8: "",
+                                                            tag: "div"
+                                                          }
+                                                        },
+                                                        [_vm._v("Maldives4")]
+                                                      )
+                                                    ],
+                                                    1
+                                                  )
+                                                ],
+                                                1
+                                              )
+                                            ],
+                                            1
+                                          )
+                                        ],
+                                        1
+                                      )
+                                    ],
+                                    1
+                                  )
+                                ],
+                                1
+                              )
+                            ],
+                            1
+                          )
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "v-flex",
+                        {
+                          staticClass: "text-xs-center red lighten-2",
+                          attrs: { md1: "" }
+                        },
+                        [
+                          _c(
+                            "v-layout",
+                            {
+                              attrs: {
+                                row: "",
+                                wrap: "",
+                                "align-center": "",
+                                "justify-center": ""
+                              }
+                            },
+                            [
+                              _c(
+                                "v-flex",
+                                {
+                                  attrs: {
+                                    xs1: "",
+                                    sm1: "",
+                                    md12: "",
+                                    "ma-1": ""
+                                  }
+                                },
+                                [
+                                  _c(
+                                    "v-icon",
+                                    { attrs: { medium: "", red: "" } },
+                                    [_vm._v("face")]
+                                  )
+                                ],
+                                1
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "v-flex",
+                                {
+                                  attrs: {
+                                    xs1: "",
+                                    sm1: "",
+                                    md12: "",
+                                    "ma-1": ""
+                                  }
+                                },
+                                [
+                                  _c(
+                                    "v-icon",
+                                    { attrs: { medium: "", red: "" } },
+                                    [_vm._v("face")]
+                                  )
+                                ],
+                                1
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "v-flex",
+                                {
+                                  attrs: {
+                                    xs1: "",
+                                    sm1: "",
+                                    md12: "",
+                                    "ma-1": ""
+                                  }
+                                },
+                                [
+                                  _c(
+                                    "v-icon",
+                                    { attrs: { medium: "", red: "" } },
+                                    [_vm._v("face")]
+                                  )
+                                ],
+                                1
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "v-flex",
+                                {
+                                  attrs: {
+                                    xs1: "",
+                                    sm1: "",
+                                    md12: "",
+                                    "ma-1": ""
+                                  }
+                                },
+                                [
+                                  _c(
+                                    "v-icon",
+                                    { attrs: { medium: "", red: "" } },
+                                    [_vm._v("face")]
+                                  )
+                                ],
+                                1
+                              )
+                            ],
+                            1
+                          )
+                        ],
+                        1
+                      )
+                    ],
+                    1
+                  )
+                ],
+                1
+              )
+            ],
+            1
+          )
+        ],
+        1
+      )
+    ],
+    1
+  )
 }
 var staticRenderFns = []
 render._withStripped = true
@@ -20250,15 +20789,44 @@ var render = function() {
               _c(
                 "v-avatar",
                 {
-                  staticClass: "elevation-10 overflow-hidden",
-                  staticStyle: {
-                    "background-size": "cover",
-                    "background-position": "center center"
-                  },
-                  style: { "background-image": "url(" + item.src + ")" },
-                  attrs: { tile: true, size: 300 }
+                  staticClass: "elevation-10 overflow-hidden mt-5",
+                  attrs: { tile: true, size: 300, color: "red lighten-2" }
                 },
-                [_c("circle-row")],
+                [
+                  _c(
+                    "v-layout",
+                    { attrs: { row: "", wrap: "" } },
+                    [
+                      _c(
+                        "v-flex",
+                        { attrs: { md12: "" } },
+                        [
+                          _c(
+                            "v-card",
+                            {
+                              attrs: {
+                                color: "green lighten-2",
+                                dark: "",
+                                to: item.path
+                              }
+                            },
+                            [_c("v-card-text", [_vm._v(_vm._s(item.title))])],
+                            1
+                          )
+                        ],
+                        1
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "v-flex",
+                        { attrs: { md12: "" } },
+                        [_c("circle-row")],
+                        1
+                      )
+                    ],
+                    1
+                  )
+                ],
                 1
               )
             ],
@@ -20421,6 +20989,50 @@ render._withStripped = true
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/profile/ProfilePicture.vue?vue&type=template&id=1f9a2234&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/profile/ProfilePicture.vue?vue&type=template&id=1f9a2234& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "v-card",
+    [
+      _c(
+        "v-img",
+        { attrs: { src: "/pics/profile.jpg" } },
+        [
+          _c("v-layout", {
+            attrs: {
+              "align-center": "",
+              column: "",
+              "justify-center": "",
+              "fill-height": ""
+            }
+          })
+        ],
+        1
+      )
+    ],
+    1
+  )
+}
+var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/views/App.vue?vue&type=template&id=91ac6b5c&":
 /*!*************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/views/App.vue?vue&type=template&id=91ac6b5c& ***!
@@ -20442,7 +21054,7 @@ var render = function() {
     [
       _c(
         "v-toolbar",
-        { attrs: { fixed: "", color: "transparent", dark: "" } },
+        { attrs: { app: "", fixed: "", color: "green lighten-2", dark: "" } },
         [
           _c("v-toolbar-title", { staticClass: "mr-5 align-center" }, [
             _c("span", { staticClass: "title" }, [_vm._v("App")]),
@@ -61500,15 +62112,17 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Profile_vue_vue_type_template_id_3bd692e4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Profile.vue?vue&type=template&id=3bd692e4& */ "./resources/js/components/Profile.vue?vue&type=template&id=3bd692e4&");
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _Profile_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Profile.vue?vue&type=script&lang=js& */ "./resources/js/components/Profile.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
-var script = {}
+
+
 
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
-  script,
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Profile_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
   _Profile_vue_vue_type_template_id_3bd692e4___WEBPACK_IMPORTED_MODULE_0__["render"],
   _Profile_vue_vue_type_template_id_3bd692e4___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
@@ -61522,6 +62136,20 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 if (false) { var api; }
 component.options.__file = "resources/js/components/Profile.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/Profile.vue?vue&type=script&lang=js&":
+/*!**********************************************************************!*\
+  !*** ./resources/js/components/Profile.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Profile_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./Profile.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Profile.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Profile_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -61867,6 +62495,59 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_TopCarousel_vue_vue_type_template_id_1f5659e0___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_TopCarousel_vue_vue_type_template_id_1f5659e0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/profile/ProfilePicture.vue":
+/*!************************************************************!*\
+  !*** ./resources/js/components/profile/ProfilePicture.vue ***!
+  \************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _ProfilePicture_vue_vue_type_template_id_1f9a2234___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ProfilePicture.vue?vue&type=template&id=1f9a2234& */ "./resources/js/components/profile/ProfilePicture.vue?vue&type=template&id=1f9a2234&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _ProfilePicture_vue_vue_type_template_id_1f9a2234___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _ProfilePicture_vue_vue_type_template_id_1f9a2234___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/profile/ProfilePicture.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/profile/ProfilePicture.vue?vue&type=template&id=1f9a2234&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/profile/ProfilePicture.vue?vue&type=template&id=1f9a2234& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ProfilePicture_vue_vue_type_template_id_1f9a2234___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./ProfilePicture.vue?vue&type=template&id=1f9a2234& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/profile/ProfilePicture.vue?vue&type=template&id=1f9a2234&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ProfilePicture_vue_vue_type_template_id_1f9a2234___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ProfilePicture_vue_vue_type_template_id_1f9a2234___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 

@@ -44,10 +44,12 @@
 <!--       </v-list>
     </v-navigation-drawer> -->
     <v-toolbar
+      app
       fixed
-      color="transparent"
+      color="green lighten-2"
       dark
     >
+      <!-- color="transparent" -->
       <v-toolbar-title class="mr-5 align-center">
         <span class="title">App</span><br>
       </v-toolbar-title>

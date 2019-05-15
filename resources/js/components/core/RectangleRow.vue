@@ -65,10 +65,10 @@ export default {
 	data () {
 	    return {
 			cards: [
-		      { title: 'Favorite road trips', src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg', flex: 3, path: '/about', 'color': 'grey' },
-		      { title: 'Best airlines', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', flex: 3, path: '/about', 'color': 'grey' },
-		      { title: 'Best airlines', src: 'https://i.ytimg.com/vi/spfN2TwD75k/maxresdefault.jpg', flex: 3, path: '/about', 'color': 'black' },
-		      { title: 'Best airlines', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', flex: 3, path: '/about', 'color': 'grey' }
+		      { title: 'Favorite road trips', src: '/pics/1.jpg', flex: 3, path: '/about', 'color': 'grey' },
+		      { title: 'Best airlines', src: '/pics/2.jpg', flex: 3, path: '/about', 'color': 'grey' },
+		      { title: 'Best airlines', src: '/pics/3.jpg', flex: 3, path: '/about', 'color': 'black' },
+		      { title: 'Best airlines', src: '/pics/2.jpg', flex: 3, path: '/about', 'color': 'grey' }
 		    ]
 	    }
 	}
